@@ -68,7 +68,7 @@ First, you should call the find_best_comb. This function allows you to designate
  
  ## Result
  
- ![image](https://user-images.githubusercontent.com/75998991/141664154-8381ab9a-8f9b-4bb5-870b-564a71647e52.png)
+![image](https://user-images.githubusercontent.com/75998991/141664201-25ffb9d4-32be-474f-bf5f-bb90b7120cb4.png)
 
  Logistic regression, SVM and DecisionTreeClassifier(entropy) showed the best performance. Among them, logistic regression was the most common, and through this, it can be seen that logistic regression is less affected by other factors and can produce good performance.
  
