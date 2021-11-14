@@ -29,6 +29,7 @@ Attributes 2 through 10 have been used to represent instances. Each instance has
     (i.e., unavailable) attribute value, now denoted by "?".
 
 ## Before run this manual, please make sure the install and import following packages.
+```
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import numpy as np
@@ -48,7 +49,8 @@ import missingno as msno
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import GridSearchCV
-from sklearn import preprocessing
+from sklearn import preprocessing 
+```
 
 
 
