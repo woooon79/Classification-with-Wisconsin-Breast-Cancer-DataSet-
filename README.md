@@ -67,5 +67,8 @@ First, you should call the find_best_comb. This function allows you to designate
  find_best_model proceeds training and evaluation process. So first, it splits a dataset into training-set and test-set (0.75:0.25). Then it starts training and testing to find best combination of models and hyperparameters. In this process I experienced with DecisionTree classifier(gini,entropy), SVM and logistic regression. And I applied different hyperparameters by grid search and k-fold cross validation. In k-fold cross validation, also I tried diverse values of k.
  
  ## Result
+ 
+ ![image](https://user-images.githubusercontent.com/75998991/141664154-8381ab9a-8f9b-4bb5-870b-564a71647e52.png)
+
  Logistic regression, SVM and DecisionTreeClassifier(entropy) showed the best performance. Among them, logistic regression was the most common, and through this, it can be seen that logistic regression is less affected by other factors and can produce good performance.
  
