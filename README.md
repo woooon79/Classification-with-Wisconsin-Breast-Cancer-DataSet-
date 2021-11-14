@@ -1,13 +1,13 @@
 # Classification-with-Wisconsin-Breast-Cancer-DataSet
-##PHW1
+## PHW1
 
-##Introduction 
+## Introduction 
 Breast cancer is the second leading cause of cancer death among women. And the incidence of breast cancer continues to increase every year. Therefore, improving diagnostic accuracy by analyzing breast cancer data is an important task. This analysis aims to find best model which classifies whether the breast cancer is benign or malignant. I applied various scalers, hyperparameters, and classifiers to derive the best combination model with the highest accuracy.
 
-##Identify the Dataset
+## Identify the Dataset
 https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
 
-#  Attribute                     Domain
+###  Attribute                     Domain
    -- -----------------------------------------
    1. Sample code number            id number
    2. Clump Thickness               1 - 10
